@@ -81,7 +81,7 @@ section {
 .hero-form label {
   margin: 0 5px;
 }
-#hero-submit {
+.hero-form button {
   background-color: #024e76;
   color: #fce138;
   padding: 10px 20px;
