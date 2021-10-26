@@ -78,6 +78,14 @@ section {
   bottom: 120px;
   right: 140px;
 }
+.hero-habits {
+  color: #fce138;
+  text-align: center;
+  font-size: large;
+}
+.hero-habits p {
+  color: aliceblue;
+}
 .hero-form label {
   margin: 0 5px;
 }
